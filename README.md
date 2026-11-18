@@ -37,7 +37,7 @@ lema:        "Consistência transforma pequenas ações em grandes resultados ao
   <tr>
     <td width="45%" align="center">
       <a href="https://github.com/Framos44/esp32-classroom-monitor">
-        <img src="https://raw.githubusercontent.com/Framos44/esp32-classroom-monitor/HEAD/modelo3D/imagem.png" alt="Caixa 3D do SIMAEP" width="100%"/>
+        <img src="https://raw.githubusercontent.com/Framos44/esp32-classroom-monitor/HEAD/modelo3D/image.png" alt="Caixa 3D do SIMAEP" width="100%"/>
       </a>
       <sub><i>Caixa do protótipo modelada em 3D</i></sub>
     </td>
