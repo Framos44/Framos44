@@ -69,12 +69,16 @@ lema:        "Consistência transforma pequenas ações em grandes resultados ao
   </tr>
 </table>
 
-```mermaid
-flowchart LR
-    S["🌡️ DHT22 · 💡 LDR<br/>🌫️ MQ2 · 🔊 Som"] --> E(("ESP32"))
-    E --> L["📟 LCD + LEDs + Buzzer"]
-    E -- "Wi-Fi · HTTP POST" --> B[("PHP + MySQL")]
-    B --> D["📊 Dashboard web"]
+```text
+ ┌───────────────────┐                ┌──────────────────────┐
+ │ DHT22 · LDR       │                │ LCD 20x4 · LEDs      │
+ │ MQ2   · Som       │───▶  ESP32 ───▶│ Buzzer               │
+ └───────────────────┘        │       └──────────────────────┘
+                              │ Wi-Fi · HTTP POST
+                              ▼
+                    ┌───────────────────┐      ┌──────────────────┐
+                    │   PHP + MySQL     │─────▶│  Dashboard web   │
+                    └───────────────────┘      └──────────────────┘
 ```
 
 ---
