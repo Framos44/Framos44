@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Framos44">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+felipe-ramos;Mantendo+servidores+de+p%C3%A9+em+Ribeir%C3%A3o+Preto+%F0%9F%96%A5%EF%B8%8F;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Construindo+coisas+com+ESP32+%E2%9A%A1" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+felipe-ramos;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Construindo+coisas+com+ESP32+%E2%9A%A1" alt="Typing SVG"/>
   </a>
 </p>
 
